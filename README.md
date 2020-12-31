@@ -8,6 +8,7 @@
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
 https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&theme=dracula
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RobertMarton&count_private=true&theme=dracula)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<RobertMarton>&theme=<gruvbox>" />
 
 
 <!--
