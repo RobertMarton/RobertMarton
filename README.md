@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![img](https://github.com/RobertMarton/RobertMarton/blob/main/wave.gif)
+![img](https://github.com/RobertMarton/RobertMarton/commit/94a8923dc35c7aa122bf4daed232ea12f696ce38)
 👷 This is Robert's homepage who is a nlper&rookie acmer.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RobertMarton&show_icons=true&theme=radical)
 
