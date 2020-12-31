@@ -7,7 +7,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RobertMarton)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
 https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&theme=dracula
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RobertMarton)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RobertMarton&count_private=true&theme=dracula)
 
 
 <!--
