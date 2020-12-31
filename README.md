@@ -10,6 +10,9 @@ https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&t
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RobertMarton&count_private=true&theme=dracula)
 <img align="center" src="https://github-readme-stats.vercel.app/api/<GitHub Stats Card>/?username=<RobertMarton>&theme=<gruvbox>" />
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RobertMarton&show_icons=true&theme=radical)
+
+
 
 <!--
 **RobertMarton/RobertMarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
