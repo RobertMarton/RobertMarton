@@ -1,7 +1,9 @@
 <!--### Hi there 👋-->
 ### Hello, folks! <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gm78box9ilg306p06iqak.gif" width="30px">
 👷 This is Robert's homepage who is a nlper&rookie acmer.
+<!---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RobertMarton&show_icons=true&theme=radical)
+-->
 <!--![wave](https://tva1.sinaimg.cn/large/0081Kckwly1gm78box9ilg306p06iqak.gif)-->
 FYI:[📃]()  is my cv.
 
